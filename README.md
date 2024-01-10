@@ -1,8 +1,5 @@
 # Visualising Electric Monopoles and Electric Dipoles
 
-<img src="https://raw.githubusercontent.com/stevens97/Electric_Dipole_Visualisation/main/Electric_Monopole.png" width="50%" height="50%">
-<img src="https://raw.githubusercontent.com/stevens97/Electric_Dipole_Visualisation/main/Electric_Dipole.png" width="50%" height="50%">
-
 What this program does:
 ========================================
 
