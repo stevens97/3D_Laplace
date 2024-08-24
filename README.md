@@ -1,5 +1,7 @@
 # Visualising Electric Monopoles and Electric Dipoles
 
+![](https://github.com/stevens97/3D_Laplace/blob/main/Electric_Dipole.png)
+
 What this program does:
 ========================================
 
